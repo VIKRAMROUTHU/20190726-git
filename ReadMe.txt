@@ -12,3 +12,4 @@ This is line commit11
 This is line commit12
 This is line commit13
 This is line commit14
+this is line commit15  .. log -oneline -decorate
